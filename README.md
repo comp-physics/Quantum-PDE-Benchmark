@@ -47,10 +47,16 @@ $$
 
 ### Quantum Solvers
 
+### Quantum Hardware
+
+|:Hardware: | # qubits | Quantum Volume | Speed | 1q gate error | 2q gate error| measurement error | Vendor|
+| ----------- | ----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+|ibmq-guadalupe| 16 | 32 | 2.4k CLOPS | | | | IBM |
+
 ### Tutorials
 
 We provide tutorials to solve PDEs on a real quantum hardware
-1. 1D Poisson Equation using VQE
+1. [1D Poisson Equation using VQE](https://github.com/comp-physics/Quantum-PDE-Benchmark/blob/master/tutorials/1D_Poisson.ipynb)
 1. 1D Poisson Equation using VQLS
 
 
