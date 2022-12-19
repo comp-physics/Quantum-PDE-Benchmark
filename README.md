@@ -4,11 +4,11 @@ Benchmark near-term quantum algorithms for Partial Differential Equations (PDEs)
 ## Install
 Download all the files and finish the installation locally,
 
-'''
+```bash
 git clone https://github.com/comp-physics/Quantum-PDE-Benchmark
 cd qpde-benchmark
 pip install -e.
-'''
+```
 
 ## Introduction
 
