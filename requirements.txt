@@ -1,0 +1,5 @@
+scipy
+networkx>=2.5
+matplotlib
+interval
+tqdm
