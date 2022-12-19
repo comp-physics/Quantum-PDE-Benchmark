@@ -16,22 +16,31 @@ pip install -e.
 ### PDE Library
 
 The Poisson equation (elliptic)
+
 $$
 \Delta \phi = f,
 $$
+
 wave equation (hyperbolic)
+
 $$
 \partial_t^2 \phi = c^2 \Delta  \phi,
 $$
+
 heat equation (parabolic)
+
 $$
 \partial_t \phi =  \Delta  \phi,
 $$
+
 1D Reaction-diffusion equation (linear, mixed)
+
 $$
 \partial_t \phi =  D\partial_x^2\phi + f(\phi).
 $$
+
 and 1D Burgers Equation (nonlinear, mixed)
+
 $$
 \partial_t \phi =  \nu \partial_x^2\phi - \phi \partial_x \phi + f.
 $$
