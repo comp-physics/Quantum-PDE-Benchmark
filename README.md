@@ -8,6 +8,10 @@ However, most algorithms are verified on simulators, ignoring the effect of quan
 This leaves the practical performance and utility of those algorithms an open question. 
 We propose an effort toward filling this gap via extensive benchmarks.
 
+
+
+Also, see this [website](https://qppqlivingreview.github.io/review/) for a brief survey of solving various PDEs with quantum algorithms.
+
 ## Install
 
 Download all the files and finish the installation locally,
@@ -61,7 +65,7 @@ $$
 
 2. Variational Quantum Linear Solver (VQLS)
 
-3. Quantum Simulation
+3. Hamiltonian Simulation
 
 4. Quantum Spectral Method
 
@@ -81,8 +85,12 @@ We provide tutorials to solve PDEs on IBM's superconducting quantum hardware:
 2. 1D Poisson Equation using VQLS
 
 
+
+
 ## Copyright and License
 Quantum PDE Benchmark uses Apache-2.0 license.
+
+
 
 ## Reference
 [1] Peruzzo, Alberto, et al. "A variational eigenvalue solver on a photonic quantum processor." *Nature communications* 5.1 (2014): 1-7.  
